@@ -42,6 +42,8 @@ An end-to-end Data Science project that applies Machine Learning models to forec
 
 A categorical classification project to predict the existence or not of cardiovascular diseases (CVD) for 70,000 patients across 12 features with Machine Learning algorithms.
 
+#### [Financial Fraud Detection (under construction :wrench:)](https://github.com/diandramelo/Financial_Fraud_Detection)
+
 
 
 <!--**diandramelo/diandramelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
