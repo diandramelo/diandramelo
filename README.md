@@ -3,7 +3,7 @@
 ![welcome_gift](welcome.gif)
 
 <p align="center">
-    A Brazilian engineer and an aspiring Data Scientist passionate about data, with large understanding on the use of a variety of statistical and machine learning methods and an ease in coding. <br><br>
+    A Brazilian engineer | Data Scientist passionate about data, with large understanding on the use of a variety of statistical and machine learning methods and an ease in coding. <br><br>
     <a href="https://www.linkedin.com/in/diandra-melo-99315711b/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:dcxsmelo@gmail.com?subject=[GitHub]%20Hello%20Diandra">
@@ -42,7 +42,7 @@ An end-to-end Data Science project that applies Machine Learning models to forec
 
 A categorical classification project to predict the existence or not of cardiovascular diseases (CVD) for 70,000 patients across 12 features with Machine Learning algorithms.
 
-#### [Financial Fraud Detection (under construction :wrench:)](https://github.com/diandramelo/Financial_Fraud_Detection)
+#### [Financial Fraud Detection](https://github.com/diandramelo/Financial_Fraud_Detection) (under construction :wrench:)
 
 
 
