@@ -38,6 +38,10 @@
 
 An end-to-end Data Science project that applies Machine Learning models to forecast sales for Rossmann, a major European drug-store chain firm. Predictions can be accessed by users through a bot from the smartphone app Telegram.
 
+#### [Bank Churn Prediction](https://github.com/diandramelo/Churn_Prediction)
+
+Evaluation of the probability of clients to leave a bank through classification Machine Learning models, presenting action measures to prevent churn.
+
 #### [Predicting Cardiovascular Diseases](https://github.com/diandramelo/Cardio_Catch_Diseases)
 
 A categorical classification project to predict the existence or not of cardiovascular diseases (CVD) for 70,000 patients across 12 features with Machine Learning algorithms.
